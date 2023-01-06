@@ -86,9 +86,15 @@ logic changes.
 ### Out of Scope
 
 In order to ensure initial integration is feasible in real-world
-projects, scope is deliberately limited to direct byte stream access.
-The following topics could be investigated at a later date when and if
-scenarios demand:
+projects, the initial scope is deliberately limited to direct byte
+stream access.
+
+It seems an important premise to separate out the fundamentals of data
+access once some URL has been derived, and how that URL or its peers are
+determined in the first place.
+
+The following topics could be investigated at a later stage and
+added (potentially as additional "layers"):
 
 - Full filesystem modelling (e.g. directories, resource iteration)
 - Additional authorization/authentication flows.
