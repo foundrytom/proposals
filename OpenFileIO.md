@@ -80,6 +80,8 @@ logic changes.
   binaries.
 - Minimal API surface area
 - Maximum language compatibility.
+- Don't re-invent wheels, this is more about ease of extension than a
+  new low-level interface.
 
 ### Out of Scope
 
