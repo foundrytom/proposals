@@ -21,7 +21,7 @@ operations in media production pipelines though anything other than the
 standard filesystem.
 
 This hampers industry adoption of modern storage, security and compute
-architectures where data may be held in other forms - such
+architectures where data may be held in other forms - such as
 access-controlled object stores exposed through HTTP endpoints.
 
 ## Background
