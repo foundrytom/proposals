@@ -71,6 +71,9 @@ The library will be designed to facilitate low-friction integration into
 existing filesystem-oriented codebases with minimal boilerplate/business
 logic changes.
 
+We hope this consideration will go some way to making the migration of
+existing codebases a viable proposition.
+
 ### Goals
 
 - "Drop-in" replacement for existing filesystem based **byte stream**
